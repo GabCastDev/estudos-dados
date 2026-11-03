@@ -1,6 +1,6 @@
 # estudos-dados
 
-Meu diário de aprendizado em dados: exercícios e desafios de SQL, Python, Pandas e Power BI feitos durante as formações da Alura. Meu obejtivo é ingressar para área de dados.
+Meu diário de aprendizado em dados: exercícios e desafios de SQL, Python, Pandas e Power BI feitos durante as formações da Alura. Meu objetivo é ingressar para área de dados.
 
 ## O que tem aqui
 
